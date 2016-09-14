@@ -1,6 +1,6 @@
 Gadgets
 =======
 
-small tools
+ A small tool in ubuntu which called
 conkyrc in conkycolors
-(for test)
+(settings)
